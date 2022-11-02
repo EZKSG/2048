@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+2048
+</name>
+</assembly>
+<members>
+<member name="T:_2048.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_2048.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_2048.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:_2048.Form1.Form1_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ 按下按鍵
+ 位移、相加、位移、新按钮、上色
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:_2048.Form1.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+ 加載窗體
+ 加2個塊
+ 上色
+ 記錄舊記錄
+ IsWin = False
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:_2048.Form1.GameInit">
+ <summary>
+ 遊戲初始化
+ 按鈕賦空值及上色、隨機2個數（小於4，1/6的概率为4,    5/6的概率为2）賦給隨機2個方塊、上色、分數賦值0
+ </summary>
+</member>
+<member name="M:_2048.Form1.Bt_Color">
+ <summary>
+ 按鈕上色
+ 上色、分數賦值
+ 判斷是否遊戲結束
+ </summary>
+</member>
+<member name="M:_2048.Form1.IsGameOver">
+ <summary>
+ 判斷遊戲結束
+ 結束標誌 a = True
+ 如到2048，提示，並且IsWin = True
+ 如有空的塊則退出函數
+ 如有可合併（相鄰並相同）的塊則 a = false
+ a = True 則遊戲結束，顯示分數
+ </summary>
+</member>
+<member name="M:_2048.Form1.Newbt">
+ <summary>
+ 生成新塊
+ 當前記錄（移动之后）和舊記錄比較（判斷）是否生成新塊，不同（有移动）則生成新塊併上色
+ </summary>
+</member>
+<member name="M:_2048.Form1.IsNewbt">
+ <summary>
+ 保存舊記錄用於判斷（比較）是否需要新生成數給塊
+ 打印字符串，坐標加內容，beforeMoveStr		
+ beforeMoveStr	"0001020310111213202122223303132433"	String
+ 保存当前的块状态位置及内容，用于判断挪完之后与之前是否相同，以便是否进行下一步的加随机新块。
+ </summary>
+</member>
+<member name="M:_2048.Form1.bt_Up">
+ <summary>
+ 上/下/左/右移动等
+ 0空 123之中只有第一个遇到的上移
+ 1空 23之中只有第一个遇到的上移
+ 2空 3上移
+ 第四象限
+ IsStart = True
+ </summary>
+</member>
+<member name="M:_2048.Form1.UpPlus">
+ <summary>
+ 每一个列中，向上加
+ 01非空，等则加
+ 12非空，等则加
+ 23非空，等则加
+ </summary>
+</member>
+<member name="M:_2048.Form1.btRestart_Click(System.Object,System.EventArgs)">
+ <summary>
+ 重新開始
+ 加載初始化函數
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

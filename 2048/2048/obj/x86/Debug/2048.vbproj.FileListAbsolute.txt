@@ -1,0 +1,44 @@
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\bin\Debug\2048.exe
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\bin\Debug\2048.pdb
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\bin\Debug\2048.xml
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\_2048.Form1.resources
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\_2048.Resources.resources
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.exe
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.xml
+D:\Users\winny727\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.pdb
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\2048.exe
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\2048.xml
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\2048.pdb
+D:\Users\winny727\Desktop\2048\2048\bin\Debug\2048.exe
+D:\Users\winny727\Desktop\2048\2048\bin\Debug\2048.pdb
+D:\Users\winny727\Desktop\2048\2048\bin\Debug\2048.xml
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\_2048.Form1.resources
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\_2048.Resources.resources
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Users\winny727\Desktop\2048\2048\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\2048.exe
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\2048.xml
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\2048.pdb
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\bin\Debug\2048.exe
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\bin\Debug\2048.pdb
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\bin\Debug\2048.xml
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\_2048.Form1.resources
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\_2048.Resources.resources
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Users\winny727\Desktop\新建文件夹\2048\2048\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Devusr24\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\Devusr24\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\Devusr24\source\repos\2048\2048\bin\Debug\2048.xml
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\2048.vbprojAssemblyReference.cache
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\_2048.Form1.resources
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\_2048.Resources.resources
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.cache
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\2048.vbproj.CoreCompileInputs.cache
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\2048.xml
+C:\Users\Devusr24\source\repos\2048\2048\obj\x86\Debug\2048.pdb
